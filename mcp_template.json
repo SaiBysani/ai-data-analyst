@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "snowflake": {
+      "command": "C:\\Users\\YOUR_USERNAME\\anaconda3\\Scripts\\mcp_snowflake_server.exe",
+      "args": [
+        "--account", "YOUR_SNOWFLAKE_ACCOUNT",
+        "--warehouse", "COMPUTE_WH",
+        "--user", "YOUR_SNOWFLAKE_USERNAME",
+        "--password", "YOUR_SNOWFLAKE_PASSWORD",
+        "--role", "ACCOUNTADMIN",
+        "--database", "OLIST_ECOMMERCE",
+        "--schema", "RAW_DATA"
+      ]
+    }
+  }
+}
