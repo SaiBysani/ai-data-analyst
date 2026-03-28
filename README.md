@@ -1,4 +1,4 @@
-# Build Your First AI Data Analyst with Claude Code
+# Build Your First AI Data Analyst
 
 An AI-powered data analyst built with Claude Code that connects to a Snowflake data warehouse, automatically cleans data, runs analyses, generates charts, and writes business insights — all from natural language prompts.
 
