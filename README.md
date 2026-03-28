@@ -1,6 +1,6 @@
 # Build Your First AI Data Analyst
 
-An AI-powered data analyst built with Claude Code that connects to a Snowflake data warehouse, automatically cleans data, runs analyses, generates charts, and writes business insights — all from natural language prompts.
+An AI-powered data analyst built that connects to a Snowflake data warehouse, automatically cleans data, runs analyses, generates charts, and writes business insights — all from natural language prompts.
 
 Built as part of the LinkedIn Learning Skill Sprint by [Sai Bysani](https://www.linkedin.com/in/saibysani18/).
 
@@ -83,4 +83,4 @@ This project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www
 
 ## Course
 
-This project was built as part of the LinkedIn Learning Skill Sprint: **"Build Your First AI Data Analyst with Claude Code"** — a 7-episode course that walks you through building this system from scratch in 15 minutes.
+This project was built as part of the LinkedIn Learning Skill Sprint: **"Build Your First AI Data Analyst"** — a 7-episode course that walks you through building this system from scratch in 15 minutes.
